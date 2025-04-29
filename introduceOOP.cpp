@@ -2,7 +2,10 @@
 using namespace std;
 
 class Mahasiswa{
-public:
+public :
+    int nim;
+    string nama;
+    float nilai;
 };
 int main(){
 
